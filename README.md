@@ -1,7 +1,5 @@
 # 🏦 Loan Approval Prediction
 
-![Loan-Approval-Prediction]
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) 
 ![Flask](https://img.shields.io/badge/Flask-2.0+-black?logo=flask) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn) 
@@ -50,3 +48,11 @@ flowchart TD
     C --> D[ML Model: Logistic Regression / Random Forest / XGBoost]
     D --> E[Prediction: Approved / Rejected]
     E --> F[Result Displayed in UI]
+
+## 🎥 Demo
+### 🔗 Live Application
+👉 [Click here to try the app](https://loan-approval-prediction-b5l5.onrender.com/)  
+
+
+
+
