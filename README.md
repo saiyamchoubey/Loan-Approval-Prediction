@@ -49,9 +49,7 @@ flowchart TD
     D --> E[Prediction: Approved / Rejected]
     E --> F[Result Displayed in UI]
 
-## 🎥 Demo
-### 🔗 Live Application
-👉 [Click here to try the app](https://loan-approval-prediction-b5l5.onrender.com/)  
+
 
 
 
